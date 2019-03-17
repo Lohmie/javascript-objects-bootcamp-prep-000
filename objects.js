@@ -7,4 +7,3 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return playlist;
 }
 
-updatePlaylist(song, darude, sandstorm);
