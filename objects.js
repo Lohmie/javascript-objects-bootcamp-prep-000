@@ -1,4 +1,4 @@
-var playlist = {Baa: "song"};
+var boo = {Baa: "song"};
 
 function updatePlaylist(playlist, artistName, songTitle) {
  
