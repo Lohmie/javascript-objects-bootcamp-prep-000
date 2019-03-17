@@ -1,6 +1,6 @@
 var playlist = { playlist: Object };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[]= ;
+  meals.snack = 'yogurt'
   return playlist;
 }
