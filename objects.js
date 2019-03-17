@@ -1,4 +1,4 @@
-var song = {darude: "sandstorm"};
+var playlist = {darude: "sandstorm"};
 
 function updatePlaylist(playlist, artistName, songTitle) {
  
