@@ -1,5 +1,6 @@
 var playlist = { playlist: Object };
 
-function updatePlaylist(object, 'string', title) {
-  
+function updatePlaylist(Object, 'String', title) {
+  playlist.artistName = 'title';
+  return playlist;
 }
