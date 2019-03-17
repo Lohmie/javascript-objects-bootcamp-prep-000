@@ -7,7 +7,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return playlist;
 }
 
-Object.assign({}, boo, { Baa: ['oatmeal', 'banana'] })
 
 function removeFromPlaylist(playlist, artistName) {
 
