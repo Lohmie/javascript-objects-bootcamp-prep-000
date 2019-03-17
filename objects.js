@@ -1,4 +1,4 @@
-var song = {Baa: "song"};
+var song = {darude: "sandstorm"};
 
 function updatePlaylist(playlist, artistName, songTitle) {
  
@@ -7,4 +7,4 @@ function updatePlaylist(playlist, artistName, songTitle) {
   return playlist;
 }
 
-updatePlaylist()
+updatePlaylist(song, darude, sandstorm);
