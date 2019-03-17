@@ -1,3 +1,3 @@
 var playlist = { playlist: Object };
 
-var updatePlaylist
+var updatePlaylist = ''
